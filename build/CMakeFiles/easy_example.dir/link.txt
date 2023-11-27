@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libeasy_example.a CMakeFiles/easy_example.dir/src/easy_example.cpp.o
+/usr/bin/ranlib lib/libeasy_example.a
